@@ -1,4 +1,12 @@
+# TODOLIST
 
-ToDO
+Simple ToDO
 
-https://waldemarciupa.github.io/todolist-2/
+## Demo
+Click the link - https://waldemarciupa.github.io/todolist-2/
+
+## Technologies
+Project is created with:
+* HTML
+* CSS
+* JavaScript
